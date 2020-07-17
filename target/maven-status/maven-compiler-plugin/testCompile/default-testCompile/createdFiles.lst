@@ -1,0 +1,4 @@
+com\mohammadalsalkini\accountManager\AccountManagerApplicationTests.class
+com\mohammadalsalkini\accountManager\resource\EventResourceTest.class
+com\mohammadalsalkini\accountManager\resource\AccountResourceTest.class
+com\mohammadalsalkini\accountManager\service\EventStatisticsServiceImplTest.class
